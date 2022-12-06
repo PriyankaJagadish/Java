@@ -1,0 +1,7 @@
+This file is to learn about Git and GitHub
+Commit
+Push
+Branch
+Merge
+Fork
+Pull
