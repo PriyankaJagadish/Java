@@ -2,6 +2,7 @@ This file is to learn about Git and GitHub
 Commit
 Push
 Branch
+Default Branch is Master
 Merge
 Fork
 Pull
